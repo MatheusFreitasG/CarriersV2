@@ -1,0 +1,27 @@
+#entrarCom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+hr {
+    height: 36px;
+    background-color: #B0B0B0;
+    transform: rotate(90deg)
+}
+
+img {
+    width: 18px;
+    height: 18px;
+}
+
+.blockEntrarCom {
+    width: 15vw;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1.5px solid #B0B0B0;
+    border-radius: 8px;
+    cursor: pointer;
+}

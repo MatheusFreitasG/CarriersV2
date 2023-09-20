@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap');
+
+.text_small {
+    font-family: var(--font-style-montserrat);
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.text_small_logomarca {
+    font-family: var(--font-style-montserrat);
+    font-size: var(--t-15);
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+
+.text_small_links {
+    font-family: var(--font-style-montserrat);
+    font-size: 10px;
+    font-weight: 500;
+    color: #B0B0B0;
+}
+
+.text_medium {
+    font-family: var(--font-style-montserrat);
+    font-size: var(--t-15);
+    font-weight: 500;
+}
+
+.text_large {
+    font-family: var(--font-style-montserrat);
+    font-size: var(--t-20);
+    font-weight: 500;
+}
+
+.text_large_bold {
+    font-family: var(--font-style-montserrat);
+    font-size: var(--t-20);
+    font-weight: 700;
+}
+
+.text_large_bold_white {
+    font-family: var(--font-style-montserrat);
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--cor-branco);
+}
+
+.text_principal {
+    font-family: var(--font-style-montserrat);
+    font-size: var(--t-50);
+    font-weight: 700;
+}

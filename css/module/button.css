@@ -1,0 +1,14 @@
+button {
+    background-color: black;
+    width: 140px;
+    height: 40px;
+    border: none;
+    border-radius: 17px;
+    margin-left: 138px;
+}
+
+button:hover {
+    border: 2px solid black;
+    color: black;
+    background-color: transparent;
+}
